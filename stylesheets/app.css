@@ -1,0 +1,58 @@
+/* Foundation v2.2.1 http://foundation.zurb.com */
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+body{
+  background-color:#000;
+  color:#eee;
+  text-align:center;
+  background-position: center; 
+  background-image: url(../images/vertical_line.jpg); 
+  background-repeat: repeat-y;
+}
+
+h1, h2, h3 {
+  color:#eee;
+}
+
+a {
+  color: #cce;
+  font-weight:bold;
+}
+
+#description{
+  background-color: #333;
+  border:1px solid #eee;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #fff;
+  margin-top:30px;
+  margin-bottom:20px;
+  text-align:center;
+}
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+
